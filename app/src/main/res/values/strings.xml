@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LockMe</string>
+    <string name="lock_me">Lock Me, Now!</string>
+    <string name="device_admin_explanation">For experimentation purposes only</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="accessibility_service_description">Enable Accessibility Service to perform a global action. For example going back, opening notification center, opening power dialog, ect. \10Please be assured that Assistive Touch will not collect any personal information. \10\10Tap the switch at the top-right corner. \10After tapping the switch , the system will send a notice warning you about your personal information. \10System Requirements: Android 4.1 or later version</string>
+
+</resources>
